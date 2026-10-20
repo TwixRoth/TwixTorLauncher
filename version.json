@@ -4,6 +4,7 @@
   "defaultProfile": "TwixTor Server",
   "profiles": {
     "TwixTor Server": "https://raw.githubusercontent.com/TwixRoth/TwixTorLauncher/refs/heads/main/twixtor_server.json",
-    "FunTime": "https://raw.githubusercontent.com/TwixRoth/TwixTorLauncher/refs/heads/main/funtime.json"
+    "FunTime": "https://raw.githubusercontent.com/TwixRoth/TwixTorLauncher/refs/heads/main/funtime.json",
+    "Test": "https://raw.githubusercontent.com/TwixRoth/TwixTorLauncher/refs/heads/main/Test.json"
   }
 }
