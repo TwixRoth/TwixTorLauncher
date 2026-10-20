@@ -1,0 +1,10 @@
+{
+  "minecraftVersion": "1.21.1",
+  "loader": "fabric",
+  "loaderVersion": "0.19.5",
+  "profileName": "Test",
+  "serverIp": "play.FunTime.su",
+  "serverIcon": "https://github.com/TwixRoth/TwixTorLauncher/blob/main/ft.png?raw=true",
+  "modsVersion": "1.0.0",
+  "modsUrl": ""
+}
