@@ -1,6 +1,6 @@
 {
-  "launcherVersion": "1.0.1",
-  "launcherUrl": "https://rutube.ru/feeds/premier/?popup=premium_payment_flow&productCode=PREMIER_RUTUBE_YAPPY&utm_source=yandex&utm_medium=cpc&utm_campaign=perform_mgcom_mg_rutube_brand_epk_key_search_all_rf_ep--708548935&utm_term=---autotargeting&utm_content=708548935_5737042370_1912985289483547835--ph:205737042370--re:205737042370--src:search_none--dvc:desktop--coef_goal:42528558--region:10747_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA&referrer=reattribution%3D1&etext=2202.I0txJPWqPvhjlWClnaySvmRnb2dnbXJwbnd1dWtla2M.10212bae4522e392102efad4985713d545ba3ba9&yclid=15543798612462665727",
+  "launcherVersion": "1.0.0",
+  "launcherUrl": "",
   "defaultProfile": "TwixTor Server",
   "profiles": {
     "TwixTor Server": "https://raw.githubusercontent.com/TwixRoth/TwixTorLauncher/refs/heads/main/twixtor_server.json",
