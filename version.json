@@ -3,7 +3,7 @@
   "launcherUrl": "",
   "defaultProfile": "TwixTor Server",
   "profiles": {
-    "TwixTor Server": "https://raw.githubusercontent.com/TwixRoth/TwixTorLauncher/refs/heads/main/twixtor_server.json",
-    "FunTime": "https://raw.githubusercontent.com/TwixRoth/TwixTorLauncher/refs/heads/main/funtime.json"
+    "TwixTor Server": "https://raw.githubusercontent.com/TwixRoth/TwixTorLauncher/refs/heads/main/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B8/TwixTor%20Server.json",
+    "FunTime": "https://raw.githubusercontent.com/TwixRoth/TwixTorLauncher/refs/heads/main/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B8/FunTime.json"
   }
 }
