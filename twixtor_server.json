@@ -1,0 +1,10 @@
+{
+  "minecraftVersion": "1.20.1",
+  "loader": "forge",
+  "loaderVersion": "47.3.0",
+  "profileName": "TwixTor Server",
+  "serverIp": "WarThunder-TwixTor.aternos.me:46793",
+  "serverIcon": "https://github.com/TwixRoth/TwixTorLauncher/blob/main/icon.png?raw=true",
+  "modsVersion": "1.0.0",
+  "modsUrl": ""
+}
